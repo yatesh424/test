@@ -1,0 +1,3 @@
+
+install rundeck plug in
+use of parameters: to deploy packages into jenkins to  test servers
