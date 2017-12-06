@@ -1,3 +1,5 @@
+git bash is used in linux machine only
 
+git is important one 
 install rundeck plug in
 use of parameters: to deploy packages into jenkins to  test servers
